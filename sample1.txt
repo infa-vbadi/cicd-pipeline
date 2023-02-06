@@ -1,1 +1,2 @@
 sample file adding to git
+edited from git ui
