@@ -1,1 +1,2 @@
 this is sample2 under dev1
+checking for git pull
